@@ -1,7 +1,7 @@
 # Open Source Vulnerability Schema
 
 This is the repository for the Open Source Vulnerability schema (OSV Schema), which is currently exported by:
-- [AlmaLinux](https://github.com/AlmaLinux/osv-database)
+- [AlmaLinux](https://github.com/AlmaLinux/database)
 - [Bitnami Vulnerability Database](https://github.com/bitnami/vulndb)
 - [Chainguard](https://packages.cgr.dev/chainguard/osv/all.json)
 - [Curl](https://curl.se/docs/vuln.json)
