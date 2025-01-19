@@ -1,4 +1,4 @@
-# Open Source Vulnerability Schema
+c Open Source Vulnerability Schema
 
 This is the repository for the Open Source Vulnerability schema (OSV Schema), which is currently exported by:
 - [AlmaLinux](https://github.com/AlmaLinux/osv-database)
